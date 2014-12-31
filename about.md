@@ -1,29 +1,29 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Theme
+title: About me
 tagline: Minimal Mistakes, a Jekyll Theme
 tags: [about, Jekyll, theme, responsive]
 modified: 9-9-2013
 image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: croke-park.jpg
 ---
 
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com)[^1] as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography. 
+I am a 30 something manager working for [Workday](http://www.workday.com) with a background in web hosting / cloud engineering / product engineering. I've been working in management since 2011 but keep a keen interest and passion for technology.
 
-## Minimal Mistakes is all about:
+I was what's fondly known as a generalist, having worked on everything from data centre layouts, rack & cabling layouts, BGP configuration, FreeBSD kernel development, javascript, HTML and a whole lot more in-between. Proficient in multiple programming languages, typically the common theme working on Linux/Unix-like operating systems.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments --- content first.
-* Large feature images for posts and pages.
-* Author sidebar to pimp your bio, photo[^2], and social media links.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
+I run two engineering groups in Workday working on our Monitoring & Deployment systems sitting squarely between traditional product development and our infrastructure. 
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+Interesting snippets...
 
-[^1]: Since open sourcing this theme I have released a couple other Jekyll themes. My website [Made Mistakes](http://mademistakes.com) is currently using a modified version of my [So Simple Theme](http://mmistakes.github.io/so-simple-theme/).
-
-[^2]: Fancy avatars provided by [Brandon Mathis](http://brandonmathis.com/projects/fancy-avatars/demo/) under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
+* Bachelors in Computer Applications from DCU (99-03)
+* Part of the [RedBrick Computer Networking Society](http://www.redbrick.dcu.ie) as a sysadmin and the Societies and Publications Committee while there
+* Started a business with two colleagues from 01-05 called RFC Networks
+* Worked in [Hosting365](http://www.hosting365.com) in the hosting dept. from 05-06
+* Worked in [Digiweb](http://hosting.digiweb.ie) in the hosting dept. from 06-09
+* Played basketball for Colaiste Eanna in Dublin D1 from 07-14
+* Part of the [Longford county football panel](http://longford.gaa.ie) in 08-09
+* Played basketball for Shamrock Hoops in the Irish Superleague in 08-09
+* Joined Workday in 09
+* Spoke at Velocity Europe 2014 on "Running Cross Functional Service Teams" 

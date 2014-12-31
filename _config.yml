@@ -1,17 +1,17 @@
-title:            Site Title
-tagline:          A short tagline
-description:      Describe your website.
+title:            brassy.net - Philip Reynolds
+tagline:          Ramblings
+description:      A place for the thoughts and musings of Philip Reynolds
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://brassy.net
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Philip Reynolds
   avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  bio:            "Engineering Manager, Workday. All thoughts, opinions expressed are my own"
+  email:          phil@brassy.net
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        
+  twitter:        http://twitter.com/philreynolds
   facebook:       
   github:         
   linkedin:       
@@ -22,7 +22,7 @@ owner:
   google_plus:    
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics: UA-529724-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:        
@@ -34,14 +34,9 @@ links:
     url: /about/
   - title: Articles
     url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Dublin/Ireland
 future:      true
 pygments:    true
 markdown:    kramdown

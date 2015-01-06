@@ -5,7 +5,6 @@ description: "Get off the hamster wheel and create products from your infrastruc
 modified: 2015-01-01
 category: articles
 tags: [infrastructure, cloud, strategy]
-published: false
 image:
   feature: donuts-conveyor-belt.png
 ---

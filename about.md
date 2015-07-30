@@ -9,13 +9,22 @@ image:
   feature: croke-park.jpg
 ---
 
-I am a 30 something manager working for [Workday](http://www.workday.com) with a background in web hosting / cloud engineering / product engineering. I've been working in management since 2011 but keep a keen interest and passion for technology.
+I am a 30 something manager working for [Workday](http://www.workday.com) with
+a background in web hosting / cloud engineering / product engineering. I've
+been working in management since 2011 but keep a keen interest and passion for
+technology.
 
-I was what's fondly known as a generalist, having worked on everything from data centre layouts, rack & cabling layouts, BGP configuration, FreeBSD kernel development, javascript, HTML and a whole lot more in-between. Proficient in multiple programming languages, typically the common theme working on Linux/Unix-like operating systems.
+I was what's, fondly known as, a generalist. I've worked on everything from
+data centre layouts, rack & cabling layouts, BGP configuration, FreeBSD kernel
+development, pension management software, build systems, javascript, HTML and
+a whole lot more in-between. Proficient in multiple programming languages,
+typically the common theme working on Linux/Unix-like operating systems.
 
-I run two engineering groups in Workday working on our Monitoring & Deployment systems sitting squarely between traditional product development and our infrastructure. 
+I run some of the engineering groups in Workday focussed on our Monitoring &
+Deployment systems sitting squarely between traditional product development
+and our infrastructure. 
 
-Interesting snippets...
+Interesting snippets of my adult life...
 
 * Bachelors in Computer Applications from DCU (99-03)
 * Part of the [RedBrick Computer Networking Society](http://www.redbrick.dcu.ie) as a sysadmin and the Societies and Publications Committee while there

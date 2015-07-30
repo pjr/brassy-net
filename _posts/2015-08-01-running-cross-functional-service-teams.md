@@ -222,25 +222,29 @@ level.
 
 ## The people
 
-The last set of benefits I'll talk about is on the people side. Personally,
-these are the strongest set of reasons to run cross functional groups.
+The last set of benefits I'll talk about is on the people side. 
 
-The first and most important is growing a deeper understanding of the system.
-If your delivery chain, build pipeline or your infrastructure is complicated
-and nuanced. Having the engineers understand these areas so that hey can fix
-them allows to dive deep in the belly of the beast, where necessary. Even if
-you only have a few people who can do that, that knowledge tends to spread
-when it's within the team.
+The first and most important is growing a deeper understanding of the system
+with your engineers. If your delivery chain, build pipeline or your
+infrastructure is complicated and/or nuanced this becomes more important.
+Having the engineers understand these areas allows them dive deep in the belly
+of the beast, where necessary. Even if you only have a few people who can do
+that, that knowledge tends to spread when it's within the team.
 
 Second on my list is autonomy. Suddenly, when you own more of the system, you
 are free to make different choices. You genuinely become more agile. If you
 need to upgrade to a newer version of your language framework, test harnass
-etc. you find that you can now turn on a dime. Co-ordinating that with other
-groups is difficult and you find over time, people hesitate to suggest things
+etc. you can do that. Turning on a dime is difficult in any software company,
+but owning more of your process is the key to make sure you're not trying to
+turn the titanic. Co-ordination with other groups is difficult. One of the
+consequences is that you find over time, people hesitate to suggest things
 that require large amounts of effort. Now you're free to try new things, to
 experiment and iterate towards better solutions for your builds, delivery
 pipeline etc. When small changes take large amounts of co-ordination and
-logistics, iterating towards a solution is always painful & risky.
+logistics, iterating towards a solution is always painful & risky. This type
+of perceived red-tape actually starts to penetrate developers well-being.
+Moaning & griping can often happen as teams complain about how long simple
+things take to do. Let them own it.
 
 Last is cross training. You'll find that having e.g. ops and dev folks on the
 same team means knowledge starts to filtrate between the two groups of people.

@@ -14,10 +14,12 @@ a background in web hosting, cloud engineering and application development.
 I've been working in management since 2011 but keep a keen interest and
 passion for technology.
 
-I was what's, fondly known as, a generalist. I've worked on everything from
+I was, what's fondly known as, a generalist. I've worked on everything from
 data centre layouts, rack & cabling layouts, BGP configuration, FreeBSD kernel
 development, pension management software, build systems, javascript, HTML and
-a whole lot more in-between. 
+a whole lot more in-between. My background is primarily with open source
+software on BSD and more recently Linux systems. Nowadays, I play in my spare
+time.
 
 I work in the Platform Engineering area of Workday helping to construct and
 improve our build pipelines, deployment tooling, monitoring systems &

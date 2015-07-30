@@ -13,7 +13,7 @@ image:
 
 This is, in written form, [something I talked about at Velocity Europe
 2014](http://velocityconf.com/velocityeu2014/public/schedule/detail/37211).
-Based on the feedback on the talk, I've decided a blog post might be a nice way
+Based on feedback from the talk, I've decided a blog post might be a nice way
 for people to refer back to this.
 
 The idea of cross functional teams is that the team can be autonomous to do

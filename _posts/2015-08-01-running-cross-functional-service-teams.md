@@ -41,8 +41,7 @@ you're small, that service may be your entire application.
 This idea is particularly suited towards cloud software where you run your own
 infrastructure. If you are shipping mobile software to a 3rd party device, or
 selling on-premise software to your customers this article may not as relevant
-to you. However, as food for thought, it may be interesting to think about any
-organisational inefficiencies in these areas.
+to you. 
 
 Typically, the three main protagonists in any cloud software company for
 building and running the software are Developers, QA & Operations.
@@ -60,7 +59,7 @@ principles are very abstract and I hope to espouse some more of the concrete
 benefits I've seen.
 
 As we develop more rapidly, deploy more often and maintain ever larger pieces
-of infrastructure our ineffiencies become exacerbated. The goal we are striving
+of infrastructure our inefficiencies become exacerbated. The goal we are striving
 towards is the ability for the team who is building a service to own their own
 destiny and be autonmous where they need to be.
 
@@ -71,6 +70,8 @@ symptoms appear in cloud software companies who have multiple development
 groups producing part of the product(s) that typically lives on an ever
 growing and more complex infrastructure. Separately, you have an operations
 group which is responsible for running the stuff the developers have built.
+They're often also responsible for building the stuff that the stuff the
+developers built runs on.
 
 Over time your operations group grows bigger and bigger. With a bigger
 application their application knowledge spreads thin. You've introduced a
@@ -89,20 +90,16 @@ production and how that works.
 The key metric for cloud software is *delivery*. What do we mean by delivery?
 Running in production. You've given developers autonomy over everything that
 happens before they deliver (build, test etc.), but their delivery channel is
-non-existant or extremely manual. Delivery or becomes a path fraught with
-peril. 
+non-existant or extremely manual. Delivery becomes a path fraught with peril. 
 
 Another interesting part of this is scaling the organisation. As the
 development & operations organisations grow, resourcing becomes much more
 tricky. The development organisation often grow independently from the
-operations organisation. In theory, both could equally outgrow the other but
-my experience here suggests development gets the resourcing and so you have
-more and more developers and development teams co-ordinating with one or more
-central, overloaded, operations groups. All anecdotal evidence seems to point
-to operations as a bottleneck in most companies as opposed to development. It
-feels like that should only happen some of the time given the law of averages,
-so something else is at play here. Seems like we're playing with a stacked
-deck - stacked against operations.
+operations organisation. In theory, both could equally outgrow the other but.
+All anecdotal evidence seems to point to operations as a bottleneck in most
+companies as opposed to development. It feels like that should only happen
+some of the time given the law of averages, so something else is at play here.
+Seems like we're playing with a stacked deck. Stacked against operations.
 
 New folks in operations start to have increasingly less familiarity with the
 systems. They don't have all the tribal knowledge of the older folks and as the
@@ -134,15 +131,15 @@ decisions.
 [The principle of least
 effort](http://en.wikipedia.org/wiki/Principle_of_least_effort) suggests that
 once you've established an organisation that has now introduced significant
-friction in to the delivery process that your developers, who are trying to
+friction in to the delivery process, that your developers, who are trying to
 deliver, will often choose paths that reduce their friction even if that's not
 the best path. That can often mean making bad architectural choices rather
 than going through the slog of introducing more artifacts which complicates
 deployment and makes them end up in meetings. Suddenly, adding something new
-to the mix, becomes a tradeoff discussion as you talk about the logistics of
+to the mix becomes a tradeoff discussion as you talk about the logistics of
 co-ordinating that. 
 
-So, here's my proposal, embed all of the knowledge required in the scrum team.
+So, here's my proposal. Embed all of the knowledge required in the scrum team.
 Set that as a goal. The scrum team needs to own all aspects of their service.
 
 Delivery is a feature.
@@ -178,15 +175,15 @@ Typically those same groups have multiple other groups that depend on them
 also. Once you end up in this situation you end up in resource contention
 hell. A lot of developers can actually relate to this and have experienced
 this intimately in their job. It's called [Dependency
-Hell](https://en.wikipedia.org/wiki/Dependency_hell). And, who knew, it
-existed within organisations too! 
+Hell](https://en.wikipedia.org/wiki/Dependency_hell). Who knew, it existed
+within organisations too! 
 
-So, the alternative to dependencies is redundancy. We end up with multiple
-teams potentially inventing the same solution to a similar-sounding problem
-(e.g. caching services, queueing services). So, the idea, is not to deal with
-redundancy up-front by trying to eliminate everywhere there is redudancy every
-time there's a potential use-case. The idea is, to bludgeon more development
-metaphors, refactor as and when you see it.
+So, the alternative to dependency is redundancy. We end up with multiple teams
+potentially inventing the same solution to a similar-sounding problem (e.g.
+caching services, queueing services). So, the idea is not to deal with
+redundancy up-front by trying to eliminate everywhere there is redudancy.  The
+idea is, to bludgeon more development metaphors, refactor as and when you see
+it.
 
 Embrace redundancy! Then figure out how to remove it long term. Don't make
 removing redundant services or functions dependencies on delivering.  Embrace,
@@ -199,8 +196,7 @@ infrastructure, build data centers, build their own laptops.  That's obviously
 not a runner. How do we know when to choose redundancy over dependency? Simple
 answer... when it's a problem. When it's stopping you getting things done.
 
-The goal should be to seek to minimize as many external dependencies as
-possible.
+*The goal should be to minimize as many external dependencies as possible.*
 
 ## Organisational Growth
 
@@ -224,12 +220,13 @@ level.
 
 The last set of benefits I'll talk about is on the people side. 
 
-The first and most important is growing a deeper understanding of the system
-with your engineers. If your delivery chain, build pipeline or your
-infrastructure is complicated and/or nuanced this becomes more important.
-Having the engineers understand these areas allows them dive deep in the belly
-of the beast, where necessary. Even if you only have a few people who can do
-that, that knowledge tends to spread when it's within the team.
+The first and most important trait of having all of this knowledge on one team
+is growing a deeper understanding of the system with your engineers. If your
+delivery chain, build pipeline or your infrastructure is complicated and/or
+nuanced this becomes more important. Having the engineers understand these
+areas allows them to dive deep in the belly of the beast, where necessary.
+Even if you only have a few people who can do that, that knowledge tends to
+spread when it's _within the team_.
 
 Second on my list is autonomy. Suddenly, when you own more of the system, you
 are free to make different choices. You genuinely become more agile. If you
@@ -248,8 +245,11 @@ things take to do. Let them own it.
 
 Last is cross training. You'll find that having e.g. ops and dev folks on the
 same team means knowledge starts to filtrate between the two groups of people.
-We have one group now that's been operating in this mode for close to two
-years and it's now quite difficult on the surface to know that there's any
-difference between the folks that come from a dev background and the folks
-that came from an ops background. They've both started to upskill in each
-others areas and they all share the load on-call.
+The developers and ops folks often end up blending in to the same role where
+it can often become difficult on the surface to even know you have different
+skillsets within the group.
+
+*As we scale, we figure out new and imperfect practices that hamper our
+ability to grow & sell product. Sometimes these changes are fundamentally
+different ways to execute and require huge buy-in. Don't underestimate the sea
+of change within your organisation required to make this happen.*

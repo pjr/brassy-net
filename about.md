@@ -29,7 +29,7 @@ virtualization platform.
 
 * Bachelors in Computer Applications from DCU (99-03)
 * Part of the [RedBrick Computer Networking Society](http://www.redbrick.dcu.ie) as a sysadmin and the Societies and Publications Committee while there
-* Started a business with two colleagues from 01-05 called RFC Networks
+* Started a business with two colleagues from 01-05 called [RFC Networks](https://web.archive.org/web/20050203203744/http://www.rfc-networks.ie/)
 * Worked in [Hosting365](http://www.hosting365.com) in the hosting dept. from 05-06
 * Worked in [Digiweb](http://hosting.digiweb.ie) in the hosting dept. from 06-09
 * Played basketball for Colaiste Eanna in Dublin D1 from 07-14

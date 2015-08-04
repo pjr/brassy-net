@@ -2,9 +2,7 @@
 layout: post
 title: Productize Your Infrastructure
 description: "Get off the hamster wheel and create products from your infrastructure"
-modified: 2015-01-01
 category: articles
-published: false
 tags: [infrastructure, cloud, strategy]
 image:
   feature: donuts-conveyor-belt.png

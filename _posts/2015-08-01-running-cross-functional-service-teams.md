@@ -4,7 +4,7 @@ title: Running Cross Functional Service Teams
 description: "Learn about running a cross functional team with both developers and operations people"
 modified: 2015-08-01
 category: articles
-tags: [management, operations, development, teams]
+tags: [management, operations, development, teams, devops]
 image:
   feature: ateam.jpg
 ---

@@ -16,12 +16,11 @@ a moniker I'm fond of for many reasons. However, that's not your fault. Given
 how prevalent the term is, let's ignore that for the time being.
 
 One of the main challenges with this denomination is the variety of different
-things people mean when they use it. Mostly somewhere between part-time build
-engineer & part-time web operations engineer. So, you can take it that my
-definition of what folks are looking for are Linux System Engineers who can
-code. I wanted to be an engineer who can build maintainable, scalale systems
-by either writing code, using 3rd party products or more often that not some
-mixture of the two.
+things people mean when they use it. Mostly somewhere between a build engineer
+& web operations engineer. My definition of what folks are looking for are
+Linux System Engineers who can code to a high level. I personally wanted to be
+an engineer who can build maintainable, scalale systems by either writing
+code, using 3rd party products or, more often than not, some mixture of the two.
 
 No matter what your definition is, whenever you want to be something in the
 tech world, I have some generic advice. Make it your passion. Build your

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I want to be a Devops!
-description: Learning how to apply continuous 
+description: Learning how to enable cloud/saas businesses 
 category: articles
 tags: [devops, operations, sre, web operations]
 image:

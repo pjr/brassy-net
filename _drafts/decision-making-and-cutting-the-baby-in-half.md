@@ -74,3 +74,6 @@ Don't just want for reversability to be present. You can often introduce it.
 I should note that this idea of reversability is very present in all agile
 methodologies. Deliver in small increments, allowing us to change course once
 we receive feedback on a small, delivered piece of product or functionality. 
+
+It's not always possible, but it's one tool to put in your decision making
+toolbelt! 

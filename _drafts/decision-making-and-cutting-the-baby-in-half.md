@@ -54,8 +54,8 @@ decision making process.
 
 A technical example of this is using a
 [Facade](https://en.wikipedia.org/wiki/Facade_pattern) on a third party library.
-There's a lot that goes in to that decision and leaky abstractions aside, the
-ability to reverse that decision later may be of tremendous benefit.
+Leaky abstractions aside, the ability to reverse that decision later by
+replacing the underlying concrete implementation can be beneficial. 
 
 This doesn't eliminate the effort in reversing that decision, but it may
 significantly reduce it.
@@ -64,7 +64,7 @@ A vendor example, might be hiring a consultant or firm to do a once off
 smaller job, before making a decision to enter in to a longer term
 higher-value agreement.
 
-Don't just want for reversibility to be present. You can often introduce it.
+Don't just hope for reversibility to be present. You can often introduce it.
 
 ## Reversibility and Agile
 

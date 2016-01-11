@@ -18,7 +18,7 @@ decisions that you are helping to make or decisions your team have an opinion
 on but you ultimately have a casting vote on.
 
 In a busy environment, you often don't have the required time to simply sit
-and think ad nauseum about every decisions you need to make. Retrospectively
+and think ad nauseum about every decision you need to make. Retrospectively
 looking at every decision is also typically a luxury.
 
 Moving quickly on decisions, where possible, is absolutely necessary. That
@@ -68,9 +68,10 @@ Don't just hope for reversibility to be present. You can often introduce it.
 
 ## Reversibility and Agile
 
-I should note that this idea of reversibility is very present in all agile
-methodologies. Deliver in small increments, allowing us to change course once
-we receive feedback on a small, delivered piece of product or functionality. 
+I should note that this idea of reversibility is very present in all [agile
+methodologies](http://agilemanifesto.org/). Deliver in small increments,
+allowing us to change course once we receive feedback on a small, delivered
+piece of product or functionality. 
 
 It's not always possible, but it's one tool to put in your decision making
 toolbelt! 

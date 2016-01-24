@@ -9,6 +9,8 @@ image:
   feature: croke-park.jpg
 ---
 
+![Speaking at CareerZoo]({{ site.url }}/images/speaking-at-careerzoo.jpg){: .pull-right }
+
 I am a 30 something manager working for [Workday](http://www.workday.com) with
 a background in web hosting, cloud engineering and application development.
 I've been working in management since 2011 but keep a keen interest and
@@ -26,6 +28,8 @@ improve our build pipelines, deployment tooling, monitoring systems &
 virtualization platform. 
 
 ## Other stuff
+
+![Playing for Longford]({{ site.url }}/images/jumping-for-ball-longford-offaly.jpg){: .pull-right }
 
 * Bachelors in Computer Applications from DCU (99-03)
 * Part of the [RedBrick Computer Networking Society](http://www.redbrick.dcu.ie) as a sysadmin and the Societies and Publications Committee while there
